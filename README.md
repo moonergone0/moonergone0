@@ -1,10 +1,9 @@
-[![MasterHead](https://i0.wp.com/vusci.blog/wp-content/uploads/2020/01/banner-for-article-2.jpg?resize=1588%2C610&ssl=1)]
+![MasterHead](https://i0.wp.com/vusci.blog/wp-content/uploads/2020/01/banner-for-article-2.jpg?resize=1588%2C610&ssl=1)
 <h1 align="center">Hi 👋, I'm Sujan Dhakal</h1>
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
 <img align="right" alt="Coding" width="400" src=“https://www.google.com/search?q=animated+coding+gif&sxsrf=ALiCzsaWPdw1D_efIOnSsj-MFiHywZilTQ:1668864486439&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiFt5HXrLr7AhW67TgGHROGC6sQ_AUoAXoECAEQAw&biw=1920&bih=943&dpr=1#imgrc=dbrfb5dvHO4gVM
 ”>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moonergone0&label=Profile%20views&color=0e75b6&style=flat" alt="moonergone0" /> </p>
 
 <p align="left"> <a href="https://twitter.com/moonergone" target="blank"><img src="https://img.shields.io/twitter/follow/moonergone?logo=twitter&style=for-the-badge" alt="moonergone" /></a> </p>
 
