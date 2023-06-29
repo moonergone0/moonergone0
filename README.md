@@ -1,4 +1,4 @@
-Sujan  - [@moonergone0]
+Sujan  - @moonergone0
 
 # **About Me**
 I am a full-stack web developer with a passion for building user-friendly and responsive web applications. I specialize in the following technologies:
