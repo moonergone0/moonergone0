@@ -1,16 +1,16 @@
 Sujan  - @moonergone0
 
-# **About Me**
+ **About Me**
 I am a full-stack web developer with a passion for building user-friendly and responsive web applications. I specialize in the following technologies:
 
-# **Front-end**
+ **Front-end**
 - HTML
 - CSS
 - JavaScript
 - React
 
 
-# **Back-end**
+ **Back-end**
 - Node.js
 - Express
 - MongoDB
@@ -18,12 +18,12 @@ I am a full-stack web developer with a passion for building user-friendly and re
 
 When I'm not coding, you can find me playing video games, reading books, or trying out new recipes in the kitchen.
 
-# **My Values**
+ **My Values**
 - 🤝 Collaboration and teamwork are key to success
 - 📣 Good communication is essential for effective collaboration
 - 🌱 I believe in continuous learning and personal growth
   
-# **Get in touch**
+ **Get in touch**
 - [LinkedIn Profile](https://www.linkedin.com/in/sujan-dhakal-164931243/)
 - [Twitter Profile](https://twitter.com/MoonerGone)
 
