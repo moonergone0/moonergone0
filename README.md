@@ -8,6 +8,7 @@ I am a full-stack web developer with a passion for building user-friendly and re
 - CSS
 - JavaScript
 - React
+- Next.Js
 
 
  **Back-end**
