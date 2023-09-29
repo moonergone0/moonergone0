@@ -1,7 +1,7 @@
 Sujan  - @moonergone0
 
  **About Me**  <br>
-I am a full-stack web developer with a passion for building user-friendly and responsive web applications. I specialize in the following technologies:
+I am a Front-end web developer with a passion for building user-friendly and responsive web applications. I specialize in the following technologies:
 
  **Front-end**
 - HTML
@@ -12,10 +12,8 @@ I am a full-stack web developer with a passion for building user-friendly and re
 
 
  **Back-end**
-- Node.js
-- Express
 - MongoDB
-- MySQL
+
 
 When I'm not coding, you can find me playing video games, reading books, or trying out new recipes in the kitchen.
 
